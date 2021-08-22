@@ -1,3 +1,5 @@
+![spotify](https://user-images.githubusercontent.com/80398395/130347035-bce7e060-6d60-4bca-a8a3-001d9c8a9e15.jpg)
+API from : https://developer.spotify.com/documentation/web-api/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
