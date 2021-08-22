@@ -1,4 +1,5 @@
-![spotify](https://user-images.githubusercontent.com/80398395/130347035-bce7e060-6d60-4bca-a8a3-001d9c8a9e15.jpg)
+![spotify](https://user-images.githubusercontent.com/80398395/130347121-85941c23-86cd-457d-9cde-a86abe8b833b.jpg)
+
 API from : https://developer.spotify.com/documentation/web-api/
 # Getting Started with Create React App
 
